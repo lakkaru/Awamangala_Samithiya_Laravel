@@ -1,0 +1,6 @@
+Installed new project with "composer create-project laravel/laravel Awamangala_Samithiya --prefer-dist"
+Changed the working directory to Awamangala_Samithiya by "cd Awamangala_Samithiya"
+Created Readme file for instructions by "echo "# Awamangala_Samithiya_Laravel" >> README.md"
+Initialized git by "git init"
+Added all files to git by "git add ."
+Git commited with "git commit -m "first commit"
